@@ -1,0 +1,20 @@
+# Markdown parsing
+markdown-it-py==3.0.0
+
+# Web scraping and parsing
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+trafilatura>=1.5.0
+
+# Progress bar
+tqdm>=4.60.0
+
+# Streamlit app
+streamlit>=1.25.0
+python-dotenv>=1.0.0
+
+# LlamaIndex (formerly GPT Index)
+llama-index>=0.10.20
+
+# Core utilities
+typing-extensions>=4.0.0
